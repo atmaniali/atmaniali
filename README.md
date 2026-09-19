@@ -76,14 +76,6 @@
 
 <br>
 
-## GitHub stats
-
-<div align="center">
-![Metrics](github-metrics.svg)
-</div>
-
-
-<br>
 
 
 <sub>© 2026 Ali Atmani · <a href="https://atmaniali.github.io/portfolio-ali.atmani/">Portfolio</a></sub>
