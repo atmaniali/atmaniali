@@ -22,7 +22,8 @@
 
 <a href="mailto:atmaniali97@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-atmaniali97%40gmail.com-F2A93C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f16" /></a>
 <a href="https://www.linkedin.com/in/ali-atmani-9741a513b"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f16" /></a>
-<a href="https://atmaniali.github.io/portfolio-ali.atmani/"><img src="https://img.shields.io/badge/VIEW-Portfolio-4D7FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f16" /></a>
+<a href="https://atmaniali.github.io/portfolio-ali.atmani/"><img src="https://img.shields.io/badge/VIEW-Portfolio-4D7FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f16" /></a>
+<a href="https://ali-portfolio-qqa1dhd9b-atmaniali97gmailcoms-projects.vercel.app/"><img src="https://img.shields.io/badge/VIEW-Portfolio-4D7FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f16" /></a>
 
 </div>
 
