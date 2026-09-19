@@ -79,12 +79,15 @@
 ## GitHub stats
 
 <div align="center">
-![Metrics](github-metrics.svg)
-</div>
 
+<img src="github-metrics.svg" alt="GitHub metrics" />
+
+</div>
 
 <br>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A93C,100:0B0F16&height=100&section=footer" width="100%"/>
 
 <sub>© 2026 Ali Atmani · <a href="https://atmaniali.github.io/portfolio-ali.atmani/">Portfolio</a></sub>
 
